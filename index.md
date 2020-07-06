@@ -6,7 +6,7 @@
 
 [Project 1: Santander Tsinghua World Challenges](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-https://www.youtube.com/watch?v=7T8JalsK6ps
+[Video 1](https://www.youtube.com/watch?v=7T8JalsK6ps)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
