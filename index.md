@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Full Descriptions
 
-[Project 1 Title](/sample_page)
+[Project 1: Santander Tsinghua World Challenges](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+https://www.youtube.com/watch?v=7T8JalsK6ps
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,9 +18,9 @@
 
 ---
 
-### Category Name 2
+### Links
 
-- [Santander Tsinghua World Challenges](http://thu-san-world-challenges.org/)
+- [Project 1: Santander Tsinghua World Challenges](http://thu-san-world-challenges.org/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
