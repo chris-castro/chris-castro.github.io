@@ -18,14 +18,21 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 4: Python programs](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 5: Android app](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
 
 ### Links
 
 - [Project 1: Santander Tsinghua World Challenges](http://thu-san-world-challenges.org/)
 - [Project 2: LearnVR](https://www.facebook.com/lqlearnvr)
-- [Project 3: Python programs](http://example.com/)
-- [Project 4: Game design in Unity](http://example.com/)
-- [Project 5: Title](http://example.com/)
+- [Project 3: Game design in Unity](http://example.com/)
+- [Project 4: Python programs](http://example.com/)
+- [Project 5: Android app](http://example.com/)
 
 ---
 
