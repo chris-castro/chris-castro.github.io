@@ -9,7 +9,7 @@
 [Click here for Video](https://www.youtube.com/watch?v=7T8JalsK6ps)
 
 ---
-[Project 2: LearnVR](/pdf/sample_presentation.pdf)
+[Project 2: LearnVR](https://www.facebook.com/lqlearnvr)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Click here for Video](https://youtu.be/HvkPRBnp-R8)
 
