@@ -4,7 +4,7 @@
 
 ### Full Descriptions
 
-[Project 1: Santander Tsinghua World Challenges](/sample_page)
+[Project 1: Emotion recognition system, from Santander Tsinghua World Challenges](http://thu-san-world-challenges.org/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Click here for Video](https://www.youtube.com/watch?v=7T8JalsK6ps)
 
